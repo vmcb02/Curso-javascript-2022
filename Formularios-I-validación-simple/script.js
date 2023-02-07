@@ -28,7 +28,7 @@ email.addEventListener('change', (e) => {
 })
  
 gender.addEventListener('change', (e) => {
-    console.log('e.target.checked')
+    console.log(e.target.checked)
     if(e.target.checked == true) formIsValid.gender = true
 })
 

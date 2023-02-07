@@ -87,10 +87,10 @@ console.log(cadena.endsWith("Mundo"));*/
 
 /*
 includes(valor [,inicio]) -> Igual que indexOf pero devuelve true o false (Devuelve verdadero si una cadena contiene una cadena especificada)
-
+*/
 console.log(cadena.includes("n"));
 console.log(cadena.includes("a", 5));
-console.log(cadena.includes("a", 3));*/
+console.log(cadena.includes("a", 3));
 
 
 

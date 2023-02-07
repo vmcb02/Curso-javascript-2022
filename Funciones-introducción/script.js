@@ -19,7 +19,7 @@ saludarUsuario("Marta")
 */
 
 
-/*const suma = (num1, num2) => {
+const suma = (num1, num2) => {
     if(num1 == 2){
         return num1+num2
     }
@@ -28,11 +28,12 @@ saludarUsuario("Marta")
 }
 
 console.log(suma(3,3));
-*/
 
 
+/*
 const suma = (num1, num2) => num1+num2
 
 let result = suma(9,1)
 
 console.log(result);
+*/
